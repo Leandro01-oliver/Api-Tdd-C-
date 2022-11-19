@@ -1,0 +1,35 @@
+#Arquivo  de inicialização do projeto
+Api.sln
+
+# Arquivos do visual studio code 
+.vs
+.vscode
+
+# Remoção de arquivos do proejeto de api application
+Api.Application/bin
+Api.Application/obj
+Api.Application/application.csproj
+Api.Application/application.csproj.user
+Api.Application/appsettings.Development.json
+Api.Application/appsettings.json
+
+# Remoção de arquivos do proejeto de data
+Api.CrossCutting/bin
+Api.CrossCutting/obj
+Api.CrossCutting/CrossCutting.csproj
+
+# Remoção de arquivos do proejeto de data
+Api.Data/bin
+Api.Data/obj
+Api.Data/Data.csproj
+
+# Remoção de arquivos do proejeto de domain
+Api.Domain/bin
+Api.Domain/obj
+Api.Domain/Domain.csproj
+
+# Remoção de arquivos do proejeto de service
+Api.Service/bin
+Api.Service/obj
+Api.Service/Serice.csproj
+
